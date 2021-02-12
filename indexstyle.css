@@ -8,14 +8,7 @@ header{
     text-align: center;
 }
 section{
-    padding: 0px;
-    margin: 100px;
-    align-content: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    width: 100%;
+
 }
 div.wrap{
     text-align: center;
