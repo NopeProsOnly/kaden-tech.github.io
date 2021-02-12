@@ -85,4 +85,5 @@ a{
 div.para{
     width: 50%;
     text-indent: 35px;
+    padding: 0 1.5em;
 }
