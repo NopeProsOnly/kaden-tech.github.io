@@ -1,3 +1,9 @@
-html{
-    background-color: aliceblue;
+*{
+    text-align: center;
+}
+.main-header{
+    background-color: lightskyblue;
+}
+.nav-table{
+    align-content: center;
 }
