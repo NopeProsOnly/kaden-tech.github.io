@@ -1,3 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div.wrap{
+    text-align: center;
+    width: 100%;
+    padding: 0;
+}
+header{
+    background-color: lightskyblue;
+    text-align: center;
 }
 table{
     margin: auto;
