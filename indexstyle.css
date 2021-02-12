@@ -15,3 +15,6 @@ div.wrap{
 table{
     margin: auto;
 }
+td{
+    text-align: center;
+}
