@@ -5,16 +5,16 @@
 }
 html{
 	height: 100%;
-	overflow: hidden;
+	overflow:-moz-hidden-unscrollable;
 }
 div.wrap{
 	height: 100%;
-	overflow: hidden;
+	overflow: -moz-hidden-unscrollable;
 }
 body{
 	font-family: 'Times New Roman';
 	height: 100%;
-	overflow: hidden;
+	overflow: -moz-hidden-unscrollable;
 }
 section{
 	height: 100vh;
