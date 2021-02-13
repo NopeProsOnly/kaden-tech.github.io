@@ -6,6 +6,8 @@
 header{
     background-color: lightskyblue;
     text-align: center;
+    width: 100%;
+    padding: 0;
 }
 div.wrap{
     text-align: center;
