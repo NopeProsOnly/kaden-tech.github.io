@@ -2,7 +2,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-
 }
 div.wrap{
     text-align: center;
@@ -42,5 +41,11 @@ div.para{
     color: black;
 }
 body{
-    overflow: scroll;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+div.nav{
+    background-color: white;
+	background-image:url(img/navbackground.jpg);
+	background-size: cover;
 }

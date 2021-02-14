@@ -6,8 +6,7 @@
 header{
     background-color: lightskyblue;
     text-align: center;
-    width: 100%;
-    padding: 0;
+    height: 78.50px;
 }
 div.wrap{
     text-align: center;
@@ -38,4 +37,17 @@ div.para{
     text-indent: 35px;
     width: 50%;
     padding: 0 1.5em;
+}
+div.nav{
+    background-color: white;
+	background-image:url(img/navbackground.jpg);
+	background-size: cover;
+}
+hr{
+    height: auto;
+    color: grey;
+    size: thick;
+}
+div.extra{
+    background-color: lightskyblue;
 }
