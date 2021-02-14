@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+
 }
 div.wrap{
     text-align: center;
@@ -39,4 +40,7 @@ div.para{
 }
 .contact-about{
     color: black;
+}
+body{
+    overflow: scroll;
 }
