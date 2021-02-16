@@ -63,4 +63,9 @@ header{
 }
 html{
     background-color: lightskyblue;
+    overflow-y: scroll;
+}
+td{
+    padding: 10px;
+    text-align: center;
 }
