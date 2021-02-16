@@ -49,3 +49,6 @@ div.nav{
 	background-image:url(img/navbackground.jpg);
 	background-size: cover;
 }
+footer{
+    background-color: white;
+}
