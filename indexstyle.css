@@ -50,6 +50,7 @@ div.nav {
     background-color: white;
     background-image: url(img/navbackground.jpg);
     background-size: cover;
+    width: max-content;
 }
 
 hr {
