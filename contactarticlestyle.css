@@ -1,29 +1,35 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-div.nav{
+
+div.nav {
     background-color: white;
-	background-image:url(img/navbackground.jpg);
-	background-size: cover;
+    background-image: url(img/navbackground.jpg);
+    background-size: cover;
 }
-body{
+
+body {
     overflow-y: scroll;
     overflow-x: hidden;
 }
-header{
+
+header {
     text-align: center;
     background-color: lightskyblue;
 }
-td{
+
+td {
     text-align: center;
     padding: 10px;
 }
-table{
+
+table {
     margin: auto;
 }
-button{
+
+button {
     background-color: gray;
     border: none;
     color: white;
@@ -33,13 +39,16 @@ button{
     display: inline-block;
     font-size: 16px;
 }
-a{
+
+a {
     color: white;
 }
-a.form{
+
+a.form {
     color: greenyellow;
 }
-button.form{
+
+button.form {
     background-color: dodgerblue;
     border: none;
     padding: 10px 15px;
@@ -48,13 +57,21 @@ button.form{
     display: inline-block;
     font-size: 16px;
 }
-div.body{
+
+div.body {
     width: 35%;
 }
-div.no-middle{
-    text-align:left;
+
+div.no-middle {
+    text-align: left;
     width: 50%;
 }
-footer{
+
+footer {
     background-color: white;
+}
+
+@viewport {
+    width: device-width;
+    zoom: 1.0;
 }

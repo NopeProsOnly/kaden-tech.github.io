@@ -1,25 +1,30 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-div.wrap{
+
+div.wrap {
     text-align: center;
     width: 100%;
     padding: 0;
 }
-header{
+
+header {
     background-color: lightskyblue;
     text-align: center;
 }
-table{
+
+table {
     margin: auto;
 }
-td{
+
+td {
     text-align: center;
     padding: 10px;
 }
-button{
+
+button {
     background-color: gray;
     border: none;
     color: white;
@@ -29,26 +34,37 @@ button{
     display: inline-block;
     font-size: 16px;
 }
-a{
+
+a {
     color: white;
 }
-div.para{
+
+div.para {
     width: 50%;
     text-indent: 35px;
     padding: 0 1.5em;
 }
-.contact-about{
+
+.contact-about {
     color: black;
 }
-body{
+
+body {
     overflow-y: scroll;
     overflow-x: hidden;
 }
-div.nav{
+
+div.nav {
     background-color: white;
-	background-image:url(img/navbackground.jpg);
-	background-size: cover;
+    background-image: url(img/navbackground.jpg);
+    background-size: cover;
 }
-footer{
+
+footer {
     background-color: white;
+}
+
+@viewport {
+    width: device-width;
+    zoom: 1.0;
 }

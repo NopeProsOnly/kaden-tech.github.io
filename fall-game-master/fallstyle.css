@@ -1,8 +1,9 @@
-*{
+* {
     padding: 0;
     margin: 0;
 }
-#game{
+
+#game {
     width: 400px;
     height: 500px;
     border: 1px solid black;
@@ -10,7 +11,8 @@
     overflow: hidden;
     background-color: white;
 }
-#character{
+
+#character {
     width: 20px;
     height: 20px;
     background-color: red;
@@ -20,7 +22,8 @@
     left: 190px;
     z-index: 1000000;
 }
-.block{
+
+.block {
     width: 400px;
     height: 20px;
     background-color: black;
@@ -28,7 +31,8 @@
     top: 100px;
     margin-top: -20px;
 }
-.hole{
+
+.hole {
     width: 40px;
     height: 20px;
     background-color: white;
@@ -36,12 +40,14 @@
     top: 100px;
     margin-top: -20px;
 }
-div.nav{
+
+div.nav {
     background-color: white;
-	background-image:url(../img/navbackground.jpg);
-	background-size: cover;
+    background-image: url(../img/navbackground.jpg);
+    background-size: cover;
 }
-button{
+
+button {
     background-color: gray;
     border: none;
     color: white;
@@ -51,24 +57,35 @@ button{
     display: inline-block;
     font-size: 16px;
 }
-a{
+
+a {
     color: white;
 }
-table{
+
+table {
     margin: auto;
 }
-header{
+
+header {
     text-align: center;
     background-color: lightskyblue;
 }
-html{
+
+html {
     background-color: lightskyblue;
     overflow-y: scroll;
 }
-td{
+
+td {
     padding: 10px;
     text-align: center;
 }
-footer{
+
+footer {
     background-color: white;
+}
+
+@viewport {
+    width: device-width;
+    zoom: 1.0;
 }
