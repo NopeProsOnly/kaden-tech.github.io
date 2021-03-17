@@ -14,6 +14,7 @@ div.wrap {
     text-align: center;
     width: 100%;
     padding: 0;
+    width: max-content;
 }
 
 table {
