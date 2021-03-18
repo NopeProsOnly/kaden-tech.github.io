@@ -87,3 +87,7 @@ footer {
     width: device-width;
     zoom: 1.0;
 }
+
+.restbody {
+    padding: 10px;
+}
