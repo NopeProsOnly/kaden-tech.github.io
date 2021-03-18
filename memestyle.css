@@ -65,6 +65,8 @@ div.nav {
 
 footer {
     background-color: white;
+    position: absolute;
+    bottom: 0;
 }
 
 @viewport {
