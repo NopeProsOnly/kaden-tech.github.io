@@ -84,3 +84,8 @@ footer {
 div.section {
     min-width: 722px;
 }
+
+header.header {
+    text-align: left;
+    width: 50%;
+}
