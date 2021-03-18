@@ -65,7 +65,7 @@ div.nav {
 
 footer {
     background-color: white;
-    position: absolute;
+    position: relative;
     bottom: auto;
     margin: auto;
     text-align: center;
