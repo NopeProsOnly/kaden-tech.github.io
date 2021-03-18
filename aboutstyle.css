@@ -49,10 +49,11 @@ div.para {
     color: black;
 }
 
-body {
+
+/*body {
     overflow-y: scroll;
     overflow-x: hidden;
-}
+}*/
 
 div.nav {
     background-color: white;
