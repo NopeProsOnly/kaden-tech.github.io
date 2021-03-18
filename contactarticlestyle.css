@@ -87,7 +87,7 @@ footer {
 div.section {
     min-width: 722px;
     position: sticky;
-    top: 1;
+    top: 0;
     z-index: 999;
 }
 

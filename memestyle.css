@@ -71,3 +71,14 @@ footer {
     width: device-width;
     zoom: 1.0;
 }
+
+.wrap {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    min-width: 722px;
+    padding: 0;
+}
