@@ -63,6 +63,9 @@ button.form {
 
 div.body {
     width: 35%;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
 }
 
 div.no-middle {
