@@ -10,10 +10,11 @@ div.nav {
     background-size: cover;
 }
 
-body {
+
+/*body {
     overflow-y: scroll;
     overflow-x: hidden;
-}
+}*/
 
 header {
     text-align: center;
