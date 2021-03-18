@@ -64,11 +64,12 @@ div.nav {
  */
 
 footer {
-    background-color: white;
+    background-color: black;
     position: relative;
     bottom: auto;
     margin: auto;
     text-align: center;
+    color: white;
 }
 
 @viewport {
