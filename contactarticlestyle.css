@@ -77,6 +77,8 @@ footer {
     background-color: white;
     text-align: center;
     margin: auto;
+    position: absolute;
+    bottom: auto;
 }
 
 @viewport {
