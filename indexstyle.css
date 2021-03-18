@@ -65,6 +65,9 @@ div.extra {
 
 footer {
     background-color: white;
+}
+
+div.footer {
     margin: auto;
     text-align: center;
 }
