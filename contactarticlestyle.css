@@ -88,5 +88,8 @@ div.section {
 p.article {
     text-align: left;
     width: 25%;
-    background-color: #ff0020;
+}
+
+a.article {
+    color: #ff0030
 }
