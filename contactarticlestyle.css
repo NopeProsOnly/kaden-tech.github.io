@@ -70,6 +70,8 @@ div.no-middle {
 
 footer {
     background-color: white;
+    text-align: center;
+    margin: auto;
 }
 
 @viewport {
