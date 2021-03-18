@@ -75,3 +75,7 @@ footer {
     width: device-width;
     zoom: 1.0;
 }
+
+div.section {
+    min-width: 722px;
+}
