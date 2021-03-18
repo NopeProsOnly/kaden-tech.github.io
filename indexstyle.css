@@ -67,12 +67,19 @@ div.extra {
 }
 
 footer {
-    background-color: white;
-}
-
-div.footer {
+    background-color: black;
+    position: relative;
+    bottom: auto;
     margin: auto;
     text-align: center;
+    color: white;
+    height: 50px;
+}
+
+.footer {
+    margin: auto;
+    text-align: center;
+    padding: 10px;
 }
 
 @viewport {
