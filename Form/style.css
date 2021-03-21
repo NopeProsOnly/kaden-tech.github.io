@@ -163,6 +163,7 @@ nav {
 footer {
     background-color: white;
     position: fixed;
+    margin-top: auto;
 }
 
 @viewport {
