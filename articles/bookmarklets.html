@@ -36,17 +36,37 @@
 <article>
 <p>
 <h3 id="FirstParagraph"></h3>
-<header class="no-background"><h2>Some great bookmarklets from everywhere.</h2></header>
+<header class="no-background"><h1>Some great bookmarklets from everywhere.</h1></header>
+<br>
 <p>Do you want to have some bookmarklets? If so, then you've some to the right place.</p>
+<br>
 <h3 id="SecondParagraph"></h3>
-<h1>In order to create these bookmarklets you need to click and drag the links to your bookmark bar.</h1>
+<h4>In order to create these bookmarklets you need to click and drag the links to your bookmark bar.</h1>
+<br>
      <p>1.</p>
-     <p>javascript:(function(){var x = document.body.getElementsByTagName("*"); for (i = 0; i < x.length; i++){x[i].style.cursor = "wait"; x[i].removeAttribute("href");}}());</p>
-     <p>You will see that when you click it, the cursor starts to load.</p>
+     <a style="color:black;" href="javascript:(function() {
+  var x = document.body.getElementsByTagName('*');
+  for (i = 0; i < x.length; i++) {
+    x[i].style.cursor = 'wait';
+    x[i].removeAttribute('href');
+  }
+}());
+">Infinite Load</a>
+<br>
+<br>
 <h3 id="ThirdParagraph"></h3>
      <p>2.</p>
-     <p>javascript:(function(){var x = document.getElementsByTagName("*"); for (i = 0; i < x.length; i++) {x[i].style.position = "absolute"; x[i].style.top = "50%"; x[i].style.left = "50%"; x[i].style.transition = "10s"; x[i].style.transform = "translate(-50%, -50%)"}}());</p>
-     <p>This should rcreate like a black hole.</p>
+     <a style="color:black;" href="javascript:(function() {
+  var x = document.getElementsByTagName('*');
+  for (i = 0; i < x.length; i++) {
+    x[i].style.position = 'absolute';
+    x[i].style.top = '50%';
+    x[i].style.left = '50%';
+    x[i].style.transition = '10s';
+    x[i].style.transform = 'translate(-50%, -50%)'
+  }
+}());">Black Hole</a>
+<br>
 </p>
 </article>
 <hr>
