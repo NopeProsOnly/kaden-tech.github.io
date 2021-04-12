@@ -71,6 +71,20 @@
   document.documentElement.style.opacity = '0';
 }());
 " style="color:black;">Fade</a>
+<br>
+<br>
+<p>4.</p>
+<a id="target" href="javascript:(function() {
+
+  document.getElementById("target").onclick = function() {
+    var wnd = window.open("https://www.example.com");
+    setTimeout(function() {
+      wnd.close();
+    }, 5000);
+    return false;
+  };
+
+})();">This will open a tab and close it in 5 seconds.</a>
 </p>
 </article>
 <hr>
