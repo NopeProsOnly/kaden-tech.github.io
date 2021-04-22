@@ -48,6 +48,8 @@ div.para {
     text-indent: 35px;
     width: 50%;
     padding: 0 1.5em;
+    margin: auto;
+    text-align: center;
 }
 
 div.nav {
