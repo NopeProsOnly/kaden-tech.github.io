@@ -3,7 +3,7 @@
     "short_name": "Push Demo",
     "icons": [{
         "src": "img/logo.jpg",
-        "sizes": "192x192",
+        "sizes": "162x74",
         "type": "image/jpg"
     }],
     "start_url": "/index.html",
