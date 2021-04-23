@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="https://kaden-tech.github.io">
   <channel>
+    <atom:link href="https://kaden-tech.github.io/feed.rss" rel="self" type="application/rss+xml" />
     <generator>RSS Builder by B!Soft</generator>
     <title>Hello World</title>
     <link>https://kaden-tech.github.io</link>
