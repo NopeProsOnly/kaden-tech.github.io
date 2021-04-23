@@ -19,6 +19,6 @@
         <guid>https://kaden-tech.github.io/</guid>
       <description>We now allow you to create your own articles!</description>
     </item>
-    <atom:link href="https://kaden-tech.github.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaden-tech.github.io/feed.rss" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
