@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <item>
-      <title>Community website</title>
-        <link>https://kaden-tech.github.io/</link>
-        <guid>https://kaden-tech.github.io/</guid>
-      <description>We now allow you to create your own articles!</description>
-    </item>
     <generator>RSS Builder by B!Soft</generator>
     <title>Hello World</title>
     <link>https://kaden-tech.github.io</link>
@@ -20,5 +14,11 @@
       <url>https://kaden-tech.github.io/favicon.png</url>
     </image>
     <atom:link href="https://kaden-tech.github.io/feed.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Community website</title>
+        <link>https://kaden-tech.github.io/</link>
+        <guid>https://kaden-tech.github.io/</guid>
+      <description>We now allow you to create your own articles!</description>
+    </item>
   </channel>
 </rss>
