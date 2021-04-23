@@ -10,8 +10,13 @@
     <copyright>Hello World 2021</copyright>
     <image>
       <title>Hello World</title>
-      <link>https://kaden-tech.github.io</link>
+        <link>https://kaden-tech.github.io</link>
       <url>https://kaden-tech.github.io/favicon.png</url>
     </image>
+    <item>
+      <title>Community website</title>
+        <link>https://kaden-tech.github.io/</link>
+      <description>We now allow you to create your own articles!</description>
+    </item>
   </channel>
 </rss>
